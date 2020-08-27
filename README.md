@@ -12,6 +12,8 @@
 
 - 图片格式转换,[https://jinaconvert.com/cn/](https://jinaconvert.com/cn/)
 
+- 查看 ios uuid,[https://www.betaqr.com/udid](https://www.betaqr.com/udid)
+
 ## 摸鱼
 
 - 看域名就很摸鱼,[https://mo.fish/](https://mo.fish/)
@@ -79,3 +81,9 @@
 * es6 入门教程,[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
 
 * nodejs 技术栈,[https://www.nodejs.red/#/](https://www.nodejs.red/#/)
+
+- 前端内参,比较全面的前端知识体系,[https://coffe1891.gitbook.io/frontend-hard-mode-interview/](https://coffe1891.gitbook.io/frontend-hard-mode-interview/)
+
+## 设计
+
+- UI 设计,[http://collectui.com/designs](http://collectui.com/designs)
