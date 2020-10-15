@@ -14,6 +14,8 @@
 
 - 查看 ios uuid,[https://www.betaqr.com/udid](https://www.betaqr.com/udid)
 
+- 壁纸,[https://wallhaven.cc/](https://wallhaven.cc/)
+
 ## 摸鱼
 
 - 看域名就很摸鱼,[https://mo.fish/](https://mo.fish/)
@@ -47,6 +49,10 @@
 - bignumber.js,一个用于任意精度运算的 JavaScript 库。,[https://mikemcl.github.io/bignumber.js](https://mikemcl.github.io/bignumber.js)
 
 - wangEditor,功能比较丰富的富文本编辑器,[http://www.wangeditor.com/](http://www.wangeditor.com/)
+
+- nsfw.js,图片鉴黄,[https://github.com/infinitered/nsfwjs](https://github.com/infinitered/nsfwjs)
+
+- js-spark-md5,js 计算 md5 值,[https://github.com/satazor/js-spark-md5](https://github.com/satazor/js-spark-md5)
 
 ### 组件库
 
@@ -87,3 +93,11 @@
 ## 设计
 
 - UI 设计,[http://collectui.com/designs](http://collectui.com/designs)
+
+- 日本色,[https://nipponcolors.com/](https://nipponcolors.com/)
+
+- 中国色,[http://zhongguose.com/](http://zhongguose.com/)
+
+- 免费字体,[https://www.fontspace.com/](https://www.fontspace.com/)
+
+## 文档
