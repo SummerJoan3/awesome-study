@@ -8,6 +8,8 @@
 
 - 文件压缩,[https://www.compresss.com](https://www.compresss.com/)
 
+- 文件压缩，[https://www.onlineimagetool.com/zh/](https://www.onlineimagetool.com/zh/)
+
 - 音频编辑,[https://www.bearaudiotool.com/zh](https://www.bearaudiotool.com/zh)
 
 - 图片格式转换,[https://jinaconvert.com/cn/](https://jinaconvert.com/cn/)
@@ -15,6 +17,10 @@
 - 查看 ios uuid,[https://www.betaqr.com/udid](https://www.betaqr.com/udid)
 
 - 壁纸,[https://wallhaven.cc/](https://wallhaven.cc/)
+
+- JSON 数据解析,[https://www.json.cn/](https://www.json.cn/)
+
+- 电子书格式转换,[https://onlineconvertfree.com/zh/](https://onlineconvertfree.com/zh/)
 
 ## 摸鱼
 
@@ -99,5 +105,3 @@
 - 中国色,[http://zhongguose.com/](http://zhongguose.com/)
 
 - 免费字体,[https://www.fontspace.com/](https://www.fontspace.com/)
-
-## 文档
