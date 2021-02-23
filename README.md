@@ -16,6 +16,10 @@
 
 - 壁纸,[https://wallhaven.cc/](https://wallhaven.cc/)
 
+- json 解析,[http://json.cn/](http://json.cn/)
+
+- mobi 转 epub 格式,[https://onlineconvertfree.com/zh/convert/epub/](https://onlineconvertfree.com/zh/convert/epub/)
+
 ## 摸鱼
 
 - 看域名就很摸鱼,[https://mo.fish/](https://mo.fish/)
@@ -25,6 +29,18 @@
 - 掘金,沸点摸鱼好地方,还能看各大神的技术文章,偏前端,[https://juejin.im/timeline](https://juejin.im/timeline)
 
 - 毒鸡汤,[https://3www.top/](https://3www.top/)
+
+## 资源
+
+### 电子书
+
+- 书行天下,https://www.sxpdf.com/
+
+- 快吧,http://www.fast8.com/
+
+- 我爱电子书,https://www.52doc.com/
+
+- 知识库,https://book.zhishikoo.com/
 
 ## 前端
 
