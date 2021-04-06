@@ -37,7 +37,7 @@
 
 ### 电子书
 
-- 书行天下,https://www.sxpdf.com/
+- [书行天下](https://www.sxpdf.com/)
 
 - 快吧,http://www.fast8.com/
 
@@ -49,7 +49,7 @@
 
 ### 库
 
-- vuepress,[https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
+- [vuepress](https://vuepress.vuejs.org/zh/)
 
 - Three.js,3d js 库,[http://www.webgl3d.cn/](http://www.webgl3d.cn/)
 
@@ -79,7 +79,7 @@
 
 - Ant Design,react 组件库,[https://ant.design/components/overview-cn/](https://ant.design/components/overview-cn/)
 
-- antv,数据可视化库,[https://antv.vision/zh](https://antv.vision/zh)
+- [antv 数据可视化库](https://antv.vision/zh)
 
 ## 博文
 
@@ -95,26 +95,28 @@
 
 - [如何避开 JavaScript 浮点数计算精度问题（如 0.1+0.2!==0.3](https://wjw465150.github.io/blog/blog/my_data/%E5%BC%80%E5%8F%91/JavaScript/%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80JavaScript%E6%B5%AE%E7%82%B9%E6%95%B0%E8%AE%A1%E7%AE%97%E7%B2%BE%E5%BA%A6%E9%97%AE%E9%A2%98.html)
 
-- 讶羽(JavaScript 深入系列、JavaScript 专题系列、ES6 系列、React 系列),[https://github.com/mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)
+- [讶羽(JavaScript 深入系列、JavaScript 专题系列、ES6 系列、React 系列)](https://github.com/mqyqingfeng/Blog)
 
-- 高级前端进阶.木易杨,[https://muyiy.cn/](https://muyiy.cn/)
+- [高级前端进阶.木易杨](https://muyiy.cn/)
 
 * 小超子的学习笔记(前端知识,前端工程师学习路径),[https://rain120.github.io/study-notes/#/notes/guide](https://rain120.github.io/study-notes/#/notes/guide)
 
-* airbnb 前端指南, [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+* [airbnb 前端指南](https://github.com/airbnb/javascript)
 
-* es6 入门教程,[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
+* [es6 入门教程](https://es6.ruanyifeng.com/)
 
-* nodejs 技术栈,[https://www.nodejs.red/#/](https://www.nodejs.red/#/)
+* [nodejs 技术栈](https://www.nodejs.red/#/)
 
-- 前端内参,比较全面的前端知识体系,[https://coffe1891.gitbook.io/frontend-hard-mode-interview/](https://coffe1891.gitbook.io/frontend-hard-mode-interview/)
+- [前端内参,比较全面的前端知识体系](https://coffe1891.gitbook.io/frontend-hard-mode-interview/)
+
+- [前端知识库](https://www.html5iq.com/index.html)
 
 ## 设计
 
 - UI 设计,[http://collectui.com/designs](http://collectui.com/designs)
 
-- 日本色,[https://nipponcolors.com/](https://nipponcolors.com/)
+- [日本色](https://nipponcolors.com/)
 
-- 中国色,[http://zhongguose.com/](http://zhongguose.com/)
+- [中国色](http://zhongguose.com/)
 
 - 免费字体,[https://www.fontspace.com/](https://www.fontspace.com/)
