@@ -27,11 +27,11 @@
 
 - 看域名就很摸鱼,[https://mo.fish/](https://mo.fish/)
 
-- v2ex,个人几个项目都是在这推广开的,[https://www.v2ex.com/](https://www.v2ex.com/)
+- [v2ex](https://www.v2ex.com/)
 
-- 掘金,沸点摸鱼好地方,还能看各大神的技术文章,偏前端,[https://juejin.im/timeline](https://juejin.im/timeline)
+- [掘金](https://juejin.im/timeline)
 
-- 毒鸡汤,[https://3www.top/](https://3www.top/)
+- [毒鸡汤](https://3www.top/)
 
 ## 资源
 
