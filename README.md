@@ -47,6 +47,16 @@
 
 ## 前端
 
+- [前端精读周刊](https://github.com/ascoders/weekly)
+
+- [Underscore Analysis](https://github.com/lessfish/underscore-analysis)
+
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
+
 ### 库
 
 - [vuepress](https://vuepress.vuejs.org/zh/)
