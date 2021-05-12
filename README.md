@@ -57,6 +57,10 @@
 
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
 
+- [utility library for JavaScript](https://github.com/liriliri/licia)
+
+- [HelloGitHub 分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+
 ### 库
 
 - [vuepress](https://vuepress.vuejs.org/zh/)
