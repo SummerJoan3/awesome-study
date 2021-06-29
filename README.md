@@ -25,7 +25,7 @@
 
 ## 摸鱼
 
-- 看域名就很摸鱼,[https://mo.fish/](https://mo.fish/)
+- [https://mo.fish/](https://mo.fish/)
 
 - [v2ex](https://www.v2ex.com/)
 
